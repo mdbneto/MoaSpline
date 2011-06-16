@@ -1,11 +1,11 @@
-# MoaSpline
+ï»¿# MoaSpline
 
-MoaSpline é um programa feito em java. Com ele é possível selecionar pontos em uma imagem e obter o desenho da Spline Cúbica desses pontos.
+MoaSpline Ã© um programa feito em java. Com ele Ã© possÃ­vel selecionar pontos em uma imagem e obter o desenho da Spline CÃºbica desses pontos.
 
-# Instalação
+# InstalaÃ§Ã£o
 
-É possivel baixar o executável java (.jar), sendo apenas necessário ter o JAVA intalado no computador.
-O link do download é http://dl.dropbox.com/u/7535349/MoaSpline.jar
+Ã‰ possivel baixar o executÃ¡vel java (.jar), sendo apenas necessÃ¡rio ter o JAVA intalado no computador.
+O link do download Ã© http://dl.dropbox.com/u/7535349/MoaSpline.jar
 
 # Screenshots
 
@@ -22,13 +22,13 @@ O link do download é http://dl.dropbox.com/u/7535349/MoaSpline.jar
 
 ![Spline](http://dl.dropbox.com/u/7535349/MoaSplinePic/moaspline3.png)
 
-# Contribuições
+# ContribuiÃ§Ãµes
 
 Se quiser contribuir com o projeto mande um email para o autor (mdbneto@gmail.com).
 
 #Agredicimentos
 
-A professora Angela Barboza (http://www.pessoal.utfpr.edu.br/angelabarboza) que disponibilizou o algorítimo para calcular os ceficientes das splines. E ao professor Lauro Galvão (http://www.pessoal.utfpr.edu.br/laurogalvao/) que ministrou a matéria de Cálculo Numérico que originou esse trabalho.
+A professora Angela Barboza (http://www.pessoal.utfpr.edu.br/angelabarboza) que disponibilizou o algorÃ­timo para calcular os ceficientes das splines. E ao professor Lauro GalvÃ£o (http://www.pessoal.utfpr.edu.br/laurogalvao/) que ministrou a matÃ©ria de CÃ¡lculo NumÃ©rico que originou esse trabalho.
 
 # License 
 
