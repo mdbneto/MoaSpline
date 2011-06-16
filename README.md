@@ -1,10 +1,10 @@
 # MoaSpline
 
-MoaSpline é um programa feito em java. Com ele é possível selecionar pontos em uma imagem e obter o desenho da Spline Cúbica desses pontos.
+MoaSpline é um programa feito em JAVA. Com ele é possível selecionar pontos em uma imagem e obter o desenho da Spline Cúbica desses pontos.
 
 # Instalação
 
-É possivel baixar o executável java (.jar), sendo apenas necessário ter o JAVA instalado no computador.
+É possivel baixar o executável JAVA (.jar), sendo apenas necessário ter o JAVA instalado no computador.
 O link do download é http://dl.dropbox.com/u/7535349/MoaSpline.jar
 
 # Screenshots
