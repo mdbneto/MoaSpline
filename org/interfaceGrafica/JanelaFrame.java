@@ -25,11 +25,11 @@ public class JanelaFrame extends JFrame {
         public static JFileChooser escolheArquivo;
 
     public JanelaFrame() {
-        setTitle("JSpline - Trabalho de Cálculo Numérico");
+        setTitle("MoaSpline - Trabalho de Cálculo Numérico");
         JMenuBar menuBar = new JMenuBar();
         setJMenuBar(menuBar);
 
-        menuBar.add(Imagem());
+        menuBar.add(Opcoes());
 
         //imagem de fundo
         fundo = (new ImageIcon(getClass().getResource("/img/fundo_branco.jpg"))).getImage();
@@ -40,8 +40,8 @@ public class JanelaFrame extends JFrame {
         pack();
     }
 
-    private JMenu Imagem() {
-        JMenu menu = new JMenu("JSpline");
+    private JMenu Opcoes() {
+        JMenu menu = new JMenu("Opções");
         menu.add(colocarImagem());
         menu.add(limparPontos());
         menu.add(calculaSpline());

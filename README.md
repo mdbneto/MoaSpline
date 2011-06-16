@@ -26,7 +26,7 @@ O link do download é http://dl.dropbox.com/u/7535349/MoaSpline.jar
 
 Se quiser contribuir com o projeto mande um email para o autor (mdbneto@gmail.com).
 
-#Agredicimentos
+#Agradecimentos
 
 A professora Angela Barboza (http://www.pessoal.utfpr.edu.br/angelabarboza) que disponibilizou o algorítimo para calcular os coeficientes das splines. E ao professor Lauro Galvão (http://www.pessoal.utfpr.edu.br/laurogalvao/) que ministrou a matéria de Cálculo Numérico que originou esse trabalho.
 
